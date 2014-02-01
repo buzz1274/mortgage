@@ -1,0 +1,30 @@
+body {
+    font-size:13px;
+}
+h1 {
+    padding:0;
+    margin:0;
+    font-size:1.5em;
+    font-weight:bold;
+}
+legend {
+    width:auto;
+    padding:0 5px;
+    border-bottom:none;
+    font-size:1.2em;
+}
+fieldset {
+    margin-right:10px;
+}
+#container {
+    float:none;
+    margin:10px auto;
+    max-width:900px;
+}
+.info_box {
+    padding:0px 15px;
+    border:1px solid #000000;
+}
+#payment_schedule {
+
+}
